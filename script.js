@@ -10,7 +10,7 @@ titulo.style.fontSize = "20px"
 const cards = [
     {titulo: "Criativa Mídia", descricao: "Serviços de Mídias Digitais"},
     {titulo: "Psicologia", descricao: "Acolhimento Psicoligo"},
-    {titulo: "Beleza", descricao: "Serviços de estetica"}
+    {titulo: "Beleza & Bem-Estar", descricao: "Serviços de estetica"}
 ]
 
 const quadros = document.querySelector(".cards")
